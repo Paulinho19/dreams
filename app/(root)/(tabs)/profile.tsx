@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-const SignIn = () => {
+const Profile = () => {
   return (
     <View>
-      <Text>Cadastre-se</Text>
+      <Text>Perfil</Text>
     </View>
   );
 };
 
-export default SignIn;
+export default Profile;
