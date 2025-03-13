@@ -10,6 +10,9 @@ export default function Index() {
         alignItems: "center",
       }}
     >
+      <Text className="font-bold text-3xl my-10 font-rubik">
+        Bem-vindo ao Dreams!
+      </Text>
       <Link href="/sign-in">Cadastre-se</Link>
       <Link href="/explore">Explore</Link>
       <Link href="/profile">Perfil</Link>
